@@ -48,8 +48,8 @@
         <p class="lead">Use this document as a way to quickly start any new project.<br> All you get is this text and a mostly barebones HTML document.</p>
       </div>
 <div class="list-group">
-    <a href="../web/usuarios/index.jsp"><button type="button" class="list-group-item">usuario</button></a>
-  <button type="button" class="list-group-item">ciudades</button>
+  <button type="button" class="list-group-item">Cras justo odio</button>
+  <button type="button" class="list-group-item">Dapibus ac facilisis in</button>
       <div class="starter-template">
     </div><!-- /.container -->
 
